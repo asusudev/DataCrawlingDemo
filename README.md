@@ -12,3 +12,8 @@ We do not use "try...catch" in this application to catch exceptions, so it might
 * Visual Studio Community 2019
 * Windows Form Application
 * [HtmlAgilityPack](https://html-agility-pack.net/) 1.11.24
+
+## How to use
+* Get the codes, then build, run the application. (Due to confidential information, I will not list the url here)
+* Fill the url field, then click on the "Crawl" button to start.
+* The tool will parse and get the right value as you want.
